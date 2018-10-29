@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="FibonacciTest" tests="13" skipped="0" failures="0" errors="0" timestamp="2018-09-28T04:29:38" hostname="Martin" time="0.166">
+  <properties/>
+  <testcase name="canary()" classname="FibonacciTest" time="0.071"/>
+  <testcase name="tailRecursionFor0()" classname="FibonacciTest" time="0.053"/>
+  <testcase name="tailRecursionFor1()" classname="FibonacciTest" time="0.003"/>
+  <testcase name="tailRecursionFor2()" classname="FibonacciTest" time="0.001"/>
+  <testcase name="tailRecursionFor7()" classname="FibonacciTest" time="0.001"/>
+  <testcase name="fibIterativeFor0()" classname="FibonacciTest" time="0.001"/>
+  <testcase name="fibIterativeFor1()" classname="FibonacciTest" time="0.001"/>
+  <testcase name="fibIterativeFor2()" classname="FibonacciTest" time="0.008"/>
+  <testcase name="fibIterativeFor7()" classname="FibonacciTest" time="0.001"/>
+  <testcase name="fibRecursiveFor0()" classname="FibonacciTest" time="0.0"/>
+  <testcase name="fibRecursiveFor1()" classname="FibonacciTest" time="0.001"/>
+  <testcase name="fibRecursiveFor2()" classname="FibonacciTest" time="0.001"/>
+  <testcase name="fibRecursiveFor7()" classname="FibonacciTest" time="0.002"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
